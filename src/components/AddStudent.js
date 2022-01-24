@@ -4,7 +4,7 @@ class AddStudent extends Component {
     render() {
         return (
             <div>
-                Thêm
+                Thêm 123
             </div>
         );
     }
